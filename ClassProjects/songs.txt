@@ -1,0 +1,54 @@
+{ PLAYLISTS 
+Pop Smoke Essentials
+Carti Vibe Essentials
+Mr. Hans's FAVORITE PLAYLIST
+}
+<1>
+Pop Smoke Essentials
+= 
+Meet the Woo
+Pop Smoke
+Meet the Woo
+Explicit
+= 
+Hawk Em
+Pop Smoke
+Meet the Woo
+Explicit
+=
+Welcome to the Party
+Pop Smoke 
+Meet the Woo
+Explicit
+=
+</1>
+
+<2>
+Carti Vibe Essentials
+=
+Sky
+Playboi Carti
+Whole Lotta Red
+Explicit
+=
+Vamp Anthem
+PLayboi Carti
+Whole Lotta Red
+Explcit
+=\
+</2>
+
+<3>
+Mr.Han's FAVORITE PLAYLIST
+=
+Mr. Hans is the best CS teacher
+Xinathan1
+Hello World1
+Inexplicit1
+=
+Hans is AMAZING
+Xinathan
+Hello World
+Inexplicit
+=
+</3>
